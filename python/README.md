@@ -6,4 +6,4 @@ In this tutorial we'll talk about all sorts of Python programs, and you'll learn
 
 Click on the tutorial files in this directory, have a look through the examples, or click [here]() to start from the beginning!  
 
-[**View the contents**](contents.md)
+[**View the contents**](contents.md) 

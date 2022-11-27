@@ -32,4 +32,4 @@ For example: `<p>Hello World</p>`.
 <!--
 [View the code for this chapter]()  
 [Next chapter - What are tags?](HTML%20Tutorial%202%20-%20What%20are%20tags%3F)
--->
+--> 
