@@ -37,4 +37,4 @@ This is my very own website! Do you like it?
 
 [Back to the Contents](contents.md)  
 [View the code for this chapter](code/HTML%20(1)%20-%20First%20Website.html)  
-[Next chapter - What are tags?](HTML%20Tutorial%202%20-%20What%20are%20tags%3F)
+[Next chapter - What are tags?](HTML%20Tutorial%202%20-%20What%20are%20tags%3F.md)
