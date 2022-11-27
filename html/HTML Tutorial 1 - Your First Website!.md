@@ -13,7 +13,7 @@ Open the file and type in the code.
 After you've entered the code, save the file and open it in a web browser (like Chrome or Firefox). You should see the result come up - a nice welcome to HTML!
 
 ## Code
-[Program 1: First Website](code/HTML%20(1)%20-%20First%20Website.html)
+[Program 1 --- First Website](code/HTML%20(1)%20-%20First%20Website.html)
 
 ``` html
 <!DOCTYPE html>
@@ -30,8 +30,8 @@ After you've entered the code, save the file and open it in a web browser (like 
   
 ## Result
 
-**Welcome to HTML!**  
-This is my very own website! Do you like it? :)
+**Welcome to HTML :)**  
+This is my very own website! Do you like it?
 
 ## Where now?
 
